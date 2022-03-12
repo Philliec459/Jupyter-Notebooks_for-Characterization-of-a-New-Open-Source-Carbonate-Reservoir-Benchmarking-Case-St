@@ -4,14 +4,13 @@ We have used the new hierarchical carbonate reservoir benchmarking case study cr
 ![Geolog_Image](Workflow_example_HW.gif)
 
 ---
-## Work repository is work in progress.
-
-There is a Geolog project that uses the same workflow and data that is also available at the following link:
-
-https://github.com/Philliec459/Characterization-of-a-New-Open-Source-Carbonate-Reservoir-Benchmarking-Case-Study-by-Costa
-
-
-![Geolog_Image](work_in_progress.png)
+>## Work repository is work in progress.
+>
+>There is a Geolog project that uses the same workflow and data that is also available at the following link:
+>
+>https://github.com/Philliec459/Characterization-of-a-New-Open-Source-Carbonate-Reservoir-Benchmarking-Case-Study-by-Costa
+>
+>![Geolog_Image](work_in_progress.png)
 
 
 # Introduction
