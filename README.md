@@ -9,7 +9,7 @@ We have used the new hierarchical carbonate reservoir benchmarking case study cr
 There is a Geolog project that uses the same workflow and data that is also available at the following link:
 
 https://github.com/Philliec459/Characterization-of-a-New-Open-Source-Carbonate-Reservoir-Benchmarking-Case-Study-by-Costa
-
+![Geolog_Image](work_in_progress.png)
 # Introduction
 **According to Costa(1):**
 > *This work presents a new open-source carbonate reservoir case study, the COSTA model, that uniquely considers significant uncertainties inherent to carbonate reservoirs, providing a far more challenging and realistic benchmarking test for a range of geo-energy applications. The COSTA field is large, with many wells and large associated volumes. The dataset embeds many interacting geological and petrophysical uncertainties in an ensemble of model concepts with realistic geological and model complexity levels and varying production profiles. The resulting number of different models and long run times creates a more demanding computational challenge than current benchmarking models.*
