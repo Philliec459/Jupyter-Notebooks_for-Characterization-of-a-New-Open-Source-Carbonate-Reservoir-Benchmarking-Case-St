@@ -3,7 +3,9 @@ We have used the new hierarchical carbonate reservoir benchmarking case study cr
 
 ![Geolog_Image](Workflow_example_HW.gif)
 
+---
 ## Work repository is work in progress.
+---
 
 # Introduction
 **According to Costa(1):**
