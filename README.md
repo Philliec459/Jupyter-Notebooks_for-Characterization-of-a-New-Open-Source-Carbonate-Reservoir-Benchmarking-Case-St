@@ -5,7 +5,6 @@ We have used the new hierarchical carbonate reservoir benchmarking case study cr
 
 ---
 ## Work repository is work in progress.
----
 
 # Introduction
 **According to Costa(1):**
