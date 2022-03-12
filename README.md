@@ -3,7 +3,7 @@ We have used the new hierarchical carbonate reservoir benchmarking case study cr
 
 ![Geolog_Image](Workflow_example_HW.gif)
 
-# Work in progress, and we need to implement the Costa HPMI results.
+## Work repository is work in progress.
 
 # Introduction
 **According to Costa(1):**
