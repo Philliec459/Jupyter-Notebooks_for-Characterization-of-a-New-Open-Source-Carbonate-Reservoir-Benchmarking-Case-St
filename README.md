@@ -9,7 +9,9 @@ We have used the new hierarchical carbonate reservoir benchmarking case study cr
 >There is a Geolog project that uses the same workflow and data that is also available at the following link:
 >
 >https://github.com/Philliec459/Characterization-of-a-New-Open-Source-Carbonate-Reservoir-Benchmarking-Case-Study-by-Costa
-
+>
+>We have added a new TensorFlow example to our workflow in the:
+> *4_Chartbook_Porosity_Optimized-Lithology_Perm_Thomeer_Saturations_ver3-Lasio_with_FWL_search-implement_Optimization-Illite_another_Scipy_optimization_method-newperm_TF.ipynb* notebook, but the TensorFlow results are not as good as kNN, and extremely slow to run unless working with GPU. 
 
 
 # Introduction
