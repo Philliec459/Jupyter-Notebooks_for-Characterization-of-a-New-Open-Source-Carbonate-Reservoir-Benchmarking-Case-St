@@ -10,11 +10,11 @@ We have used the new hierarchical carbonate reservoir benchmarking case study cr
 >
 >https://github.com/Philliec459/Characterization-of-a-New-Open-Source-Carbonate-Reservoir-Benchmarking-Case-Study-by-Costa
 >
->We have added a new TensorFlow example to our workflow in the:
+>We have added a new TensorFlow example to our workflow to estimate permeability in the:
 >
 > *4_Chartbook_Porosity_Optimized-Lithology_Perm_Thomeer_Saturations_ver3-Lasio_with_FWL_search-implement_Optimization-Illite_another_Scipy_optimization_method-newperm_TF.ipynb* 
 > 
-> notebook, but the TensorFlow results are not as good as kNN, and extremely slow to run unless working with GPU. 
+> notebook, but the TensorFlow permeability estimations are not as good as kNN, and extremely slow to run with 1000 epochs unless working with GPU. Even on the Mac with M1 Pro chip, it took nearly 9 minutes to run the TensorFlow training. 
 ---
 
 # Introduction
