@@ -30,7 +30,7 @@ We have used the new hierarchical carbonate reservoir benchmarking case study cr
 > 
 > *Costa_Oil_Production.ipynb*
 
-![Geolog_Image](Altair_Production.gif)
+![Geolog_Image](Costa_Production.gif)
 ---
 
 # Introduction
