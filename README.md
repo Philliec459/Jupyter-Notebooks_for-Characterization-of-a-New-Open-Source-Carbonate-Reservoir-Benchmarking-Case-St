@@ -99,7 +99,7 @@ For the 3D static model, the Thomeer parameters on each well can be distributed 
 
 Finally, as with most of our studies we want to be able to integrate our Petrophysical findings with the dynamic production and pressure data to better understand the productive characteristics of this reservoir to be able to maximize recovery with sustained production over the life of this field.
 
-![Geolog_Image](Dynamic.png)
+![Geolog_Image](Costa_Spotfire.png)
 
 
 
