@@ -20,15 +20,17 @@ We have used the new hierarchical carbonate reservoir benchmarking case study cr
 > 
 > *5_Chartbook_Porosity_Optimized-Lithology_Perm_Thomeer_Saturations_ver3-Lasio_with_FWL_search-implement_Optimization-Illite_another_Scipy_optimization_method-MyNewPerm-NoTrain.ipynb*
 > 
-> This has been pre-trained using 200 epochs. We are also providing the notebook that does the training too:
+> This method has been pre-trained using 200 epochs. The notebook that does the training is called:
 > 
 > *5_Chartbook_Porosity_Optimized-Lithology_Perm_Thomeer_Saturations_ver3-Lasio_with_FWL_search-implement_Optimization-Illite_another_Scipy_optimization_method-MyNewPerm.ipynb*
 > 
-> This notebook uses our own normalized feature and label data vs. the 'black box' type that occurs within some of these python packages. This way we can normalize and de-normalize as necessary.
+> With this notebook we use our own normalized features (PHIT, RHOB and GR) and label (log10(Core_Perm)) vs. the 'black box' methods that are employed with some of the python packages. This way we can normalize and de-normalize as necessar knowing exactly how we performed the work. 
 >
-> Added Dynamic data analysis of Costa Field using python Altair. We are now trying to add the structure map for our Field Maps in Altair.
+> We added a Dynamic data analysis of Costa Field using python Altair where we can select different wells in the field and view the production and BHP's from these wells. We are now trying to add the structure map as a base map in Altair for our Altair Field Maps. Altair is fairly flexible, but making a pie plot for each well of the production and adding basemap images has not yet been fully implemented in Altair. 
 > 
 > *Costa_Oil_Production.ipynb*
+
+![Geolog_Image](Altair_Production.gif)
 ---
 
 # Introduction
