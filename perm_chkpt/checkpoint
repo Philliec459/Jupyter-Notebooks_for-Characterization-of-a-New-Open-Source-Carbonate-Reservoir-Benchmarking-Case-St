@@ -1,2 +1,0 @@
-model_checkpoint_path: "perm_dataset.ckpt"
-all_model_checkpoint_paths: "perm_dataset.ckpt"
