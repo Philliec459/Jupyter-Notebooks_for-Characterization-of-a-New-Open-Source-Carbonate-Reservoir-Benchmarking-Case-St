@@ -15,6 +15,17 @@ We have used the new hierarchical carbonate reservoir benchmarking case study cr
 > *4_Chartbook_Porosity_Optimized-Lithology_Perm_Thomeer_Saturations_ver3-Lasio_with_FWL_search-implement_Optimization-Illite_another_Scipy_optimization_method-newperm_TF.ipynb* 
 > 
 > notebook, but the TensorFlow permeability estimations are not as good as kNN, and extremely slow to run with 1000 epochs unless working with GPU. Even on the Mac with M1 Pro chip, it took nearly 9 minutes to run the TensorFlow training. 
+>
+> There is another TensorFlow permeability estimation example that is a bit more straighforward:
+> 
+> *5_Chartbook_Porosity_Optimized-Lithology_Perm_Thomeer_Saturations_ver3-Lasio_with_FWL_search-implement_Optimization-Illite_another_Scipy_optimization_method-MyNewPerm-NoTrain.ipynb*
+> 
+> This has been pretrained using 200 epochs. We are also providing the notebook that does the training too:
+> 
+> 5_Chartbook_Porosity_Optimized-Lithology_Perm_Thomeer_Saturations_ver3-Lasio_with_FWL_search-implement_Optimization-Illite_another_Scipy_optimization_method-MyNewPerm.ipynb
+> 
+> This notebook uses our own normalized data vs. the black box type that occurs within some of these python packages. 
+> 
 ---
 
 # Introduction
