@@ -25,7 +25,10 @@ We have used the new hierarchical carbonate reservoir benchmarking case study cr
 > *5_Chartbook_Porosity_Optimized-Lithology_Perm_Thomeer_Saturations_ver3-Lasio_with_FWL_search-implement_Optimization-Illite_another_Scipy_optimization_method-MyNewPerm.ipynb*
 > 
 > This notebook uses our own normalized feature and label data vs. the 'black box' type that occurs within some of these python packages. This way we can normalize and de-normalize as necessary.
+>
+> Added Dynamic data analysis of Costa Field using python Altair. We are now trying to add the structure map for our Field Maps in Altair.
 > 
+> *Costa_Oil_Production.ipynb*
 ---
 
 # Introduction
