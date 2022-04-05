@@ -29,8 +29,16 @@ We have used the new hierarchical carbonate reservoir benchmarking case study cr
 > We added a Dynamic data analysis of Costa Field using python Altair where we can select different wells in the field and view the production and BHP's from these wells. We are now trying to add the structure map as a base map in Altair for our Altair Field Maps. Altair is fairly flexible, but making a pie plot for each well of the production and adding basemap images has not yet been fully implemented in Altair. 
 > 
 > *Costa_Oil_Production.ipynb*
-
 ![Geolog_Image](Costa_Production.gif)
+>
+> We have added a new test Characterization Notebook that uses Panel Widgets to select the well and well log analysis parameters"
+> 	3test_Chartbook_Porosity_Optimized-Lithology_Perm_Thomeer_Saturations_ver3-Lasio_with_FWL_search-implement_Optimization-Illite_another_Scipy_optimization_method-newperm.ipynb
+> It is not totally straight forward, but please follow the directions in the Notebook:
+> - Intitialize the entire Notebook in the beginning by running then entire Notebook first
+> - Select the well and make any changes to the Petrophysical parameters
+> - From that point on run from START POINT 2 and discussed in the Notebook
+
+
 ---
 
 # Introduction
