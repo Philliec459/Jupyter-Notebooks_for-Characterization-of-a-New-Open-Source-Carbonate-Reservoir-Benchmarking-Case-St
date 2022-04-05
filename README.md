@@ -1,7 +1,7 @@
 # Jupyter-Notebooks_for-Characterization-of-a-New-Open-Source-Carbonate-Reservoir-Benchmarking-Case-Study
 We have used the new hierarchical carbonate reservoir benchmarking case study created by Costa Gomes J, Geiger S, Arnold D to be used for reservoir characterization, uncertainty quantification and history matching. 
 
-![Geolog_Image](Workflow_example_HW.gif)
+>![Geolog_Image](Workflow_example_HW.gif)
 
 ---
 >## Work repository is work in progress.
