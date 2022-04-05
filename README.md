@@ -32,7 +32,8 @@ We have used the new hierarchical carbonate reservoir benchmarking case study cr
 > 
 ![Geolog_Image](Costa_Production.gif)
 >
-> We have added a new test Characterization Notebook that uses Panel Widgets to select the well and well log analysis parameters"
+> We have added a new test Characterization Notebook that uses Panel Widgets to select the well and well log analysis parameters:
+> 
 > 	3test_Chartbook_Porosity_Optimized-Lithology_Perm_Thomeer_Saturations_ver3-Lasio_with_FWL_search-implement_Optimization-Illite_another_Scipy_optimization_method-newperm.ipynb
 > 	
 > It is not totally straight forward, but please follow the directions in the Notebook:
