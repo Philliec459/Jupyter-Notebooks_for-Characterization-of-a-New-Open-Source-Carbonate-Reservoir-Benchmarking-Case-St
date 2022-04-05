@@ -39,7 +39,7 @@ We have used the new hierarchical carbonate reservoir benchmarking case study cr
 > It is not totally straight forward, but please follow the directions in the Notebook:
 > - Intitialize the entire Notebook in the beginning by running then entire Notebook first
 > - Select the well and make any changes to the Petrophysical parameters
-> - From that point on run from START POINT 2 and discussed in the Notebook
+> - From that point on, run from the START POINT 2 as discussed in the Notebook
 
 
 ---
