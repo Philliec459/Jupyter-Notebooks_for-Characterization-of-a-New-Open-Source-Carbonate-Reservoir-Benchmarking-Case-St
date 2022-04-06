@@ -12,17 +12,17 @@ We have used the new hierarchical carbonate reservoir benchmarking case study cr
 >
 >We have added a new TensorFlow example to our workflow to estimate permeability in the:
 >
-> *4_Chartbook_Porosity_Optimized-Lithology_Perm_Thomeer_Saturations_ver3-Lasio_with_FWL_search-implement_Optimization-Illite_another_Scipy_optimization_method-newperm_TF.ipynb* 
+> 	*4_Chartbook_Porosity_Optimized-Lithology_Perm_Thomeer_Saturations_ver3-Lasio_with_FWL_search-implement_Optimization-Illite_another_Scipy_optimization_method-newperm_TF.ipynb* 
 > 
 > notebook, but the TensorFlow permeability estimations are not as good as kNN, and extremely slow to run with 1000 epochs unless working with GPU. Even on the Mac with M1 Pro chip, it took nearly 9 minutes to run the TensorFlow training. 
 >
 > There is another TensorFlow permeability estimation example that is a bit more straighforward:
 > 
-> *5_Chartbook_Porosity_Optimized-Lithology_Perm_Thomeer_Saturations_ver3-Lasio_with_FWL_search-implement_Optimization-Illite_another_Scipy_optimization_method-MyNewPerm-NoTrain.ipynb*
+> 	*5_Chartbook_Porosity_Optimized-Lithology_Perm_Thomeer_Saturations_ver3-Lasio_with_FWL_search-implement_Optimization-Illite_another_Scipy_optimization_method-MyNewPerm-NoTrain.ipynb*
 > 
 > This method has been pre-trained using 200 epochs. The notebook that does the training is called:
 > 
-> *5_Chartbook_Porosity_Optimized-Lithology_Perm_Thomeer_Saturations_ver3-Lasio_with_FWL_search-implement_Optimization-Illite_another_Scipy_optimization_method-MyNewPerm.ipynb*
+> 	*5_Chartbook_Porosity_Optimized-Lithology_Perm_Thomeer_Saturations_ver3-Lasio_with_FWL_search-implement_Optimization-Illite_another_Scipy_optimization_method-MyNewPerm.ipynb*
 > 
 > With this notebook we use our own normalized features (PHIT, RHOB and GR) and label (log10(Core_Perm)) vs. the 'black box' methods that are employed with some of the python packages. This way we can normalize and de-normalize as necessar knowing exactly how we performed the work.
 > 
