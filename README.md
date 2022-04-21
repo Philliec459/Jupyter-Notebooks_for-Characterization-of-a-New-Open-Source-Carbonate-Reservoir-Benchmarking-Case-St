@@ -36,6 +36,9 @@ We have used the new hierarchical carbonate reservoir benchmarking case study cr
 > - From that point on, run from the START POINT 2 as discussed in the Notebook
 >
 > For our 3*.ipynb characterization notebooks we have added Andy McDonald's method to export las files for our results. The link to Andy's YouTube presentation is given in the notebook.
+> **Watch Andy's YouTube presentation on this:**
+>
+> https://www.youtube.com/watch?v=GwAbfriuHr4
 >
 > We added a Dynamic data analysis of Costa Field using python Altair where we can select different wells in the field and view the production and BHP's from these wells. We are now trying to add the structure map as a base map in Altair for our Altair Field Maps. Altair is fairly flexible, but making a pie plot for each well of the production and adding basemap images has not yet been fully implemented in Altair. 
 > 
